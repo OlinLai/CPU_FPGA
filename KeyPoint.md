@@ -3,4 +3,4 @@
 
 ## Feature
 
-## Key Pointx
+## Key Point
